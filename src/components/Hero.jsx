@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
 import { HERO_CONTENT } from "../constants";
-import profilepic from "../assets/morlayeSyllaProfile-removebg-preview.png";
+import profilepic from "../assets/profile.jpg";
 
 const container = (delay) => ({
     hidden: { x: -100, opacity: 0 },
