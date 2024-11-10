@@ -77,7 +77,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "34 rue Francis Meilland, 49000 Angers ",
+  address: "3 Rue des Petites Maulévries, 49000 Angers ",
   phoneNo: "+33 7 82 87 74 68 ",
   email: "smorlaye313@gmail.com",
 };
